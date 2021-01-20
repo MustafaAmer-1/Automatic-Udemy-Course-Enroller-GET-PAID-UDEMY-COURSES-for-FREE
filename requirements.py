@@ -12,6 +12,7 @@ def install(package):
 
 
 install("requests")
+install("aiohttp")
 install("beautifulsoup4")
 install("ruamel.yaml")
 install("selenium")
